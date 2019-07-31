@@ -6,7 +6,7 @@ import TabNavigation from "../navigation/TabNavigation";
 import MainNavigation from "../navigation/MainNavigation";
 
 export default () => {
-  const isLoggedIn = true;
+  const isLoggedIn = false;
 
   return (
     <View style={{ flex: "1" }}>
